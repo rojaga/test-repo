@@ -1,3 +1,3 @@
-# test-repo
+# Repo created for UDemy course
 
-This is a 2nd example.
+3rd edit
